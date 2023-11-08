@@ -2,6 +2,9 @@
 
 Streaming LLM Chat is a web application built with Flask and OpenAI's GPT-4 models, designed to provide an interactive chat experience using large language models (LLMs).
 
+![Screen Capture](screen-capture.gif)
+
+
 ## Features
 
 - Interactive chat interface with real-time response streaming.
