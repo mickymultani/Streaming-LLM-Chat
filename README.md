@@ -19,7 +19,7 @@ To run Streaming LLM Chat on your local machine, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/Streaming-LLM-Chat.git
+   git clone https://github.com/mickymultani/Streaming-LLM-Chat.git
    cd Streaming-LLM-Chat
    ```
 
